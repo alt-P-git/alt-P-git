@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Prit Bhanushali! 👋
 
-I'm Prit, currently in my pre-final year at IIIT Jabalpur.
+Computer Science student at IIIT Jabalpur | Mobile App Developer
 
-I have strong skills in Mobile app development, including Android Native and Flutter, as well as Web development. I also have working knowledge of Java, Python, PHP, and C++ and am actively developing my skills in these areas.
+## Tech Stack
+
+**Languages**: Kotlin • Dart • C/C++ • Python • Java • JavaScript
+
+**Mobile Technologies**: Kotlin Multiplatform • Compose Multiplatform • Jetpack Compose • Flutter
+
+**Web**: React.js • Node.js • Express • Django • Laravel
+
+**Databases**: MySQL • MongoDB • PostgreSQL
+
+**Tools**: Android Studio • VS Code • Arduino IDE • Git • GitHub • Gitea
